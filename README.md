@@ -1,0 +1,31 @@
+# Brent Faiyaz – Skyline
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Do you know what makes
+this world go 'round?
+Around
+Do you know what makes
+this world go 'round?
+Around
+Think it through
+What it means to you
+And everything you do
+Don't affect just you, oh
+I can't help but feel like
+I don't give a fuck
+I just take this shit
+and blow it up
+It's no wonder I feel stuck
+Fuck what's said,
+you ain't what you claim
+We all come from a sin
+And I don't know if it'll change
+Do you know what makes
+this world go 'round?
+Around
+Do you know what makes
+this world go 'round?
+Around
+```
