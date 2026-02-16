@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Skyline",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-16T16:21:01.823401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Northern Skyline",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/01_Northern_Skyline_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Manhattan Skyline",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/02_Manhattan_Skyline_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Designer Skyline",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/03_Designer_Skyline_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "skyline, be mine",
+      "artist": "Shura",
+      "has_synced": true,
+      "path": "select/04_skyline,_be_mine_Shura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skyline",
+      "artist": "Ethereal Delusions feat. Maria DeHart",
+      "has_synced": true,
+      "path": "select/05_Skyline_Ethereal_Delusions_feat._Maria_DeHart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skyline (feat. Maria DeHart)",
+      "artist": "Ethereal Delusions",
+      "has_synced": true,
+      "path": "select/06_Skyline_(feat._Maria_DeHart)_Ethereal_Delusions.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skyline To",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_Skyline_To_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skyline To (Feat. Kendrick Lamar)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/08_Skyline_To_(Feat._Kendrick_Lamar)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Manhattan Skyline",
+      "artist": "Kings of Convenience",
+      "has_synced": false,
+      "path": "select/09_Manhattan_Skyline_Kings_of_Convenience.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Manhattan Skyline",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/10_Manhattan_Skyline_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Change the Skyline (feat. Jonas Bjerre)",
+      "artist": "Duran Duran feat. Jonas Bjerre",
+      "has_synced": true,
+      "path": "select/11_Change_the_Skyline_(feat._Jonas_Bjerre)_Duran_Duran_feat._Jonas_Bjerre.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Change the Skyline",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/12_Change_the_Skyline_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Manhattan Skyline",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/13_Manhattan_Skyline_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Manhattan Skyline",
+      "artist": "a‐ha",
+      "has_synced": true,
+      "path": "select/14_Manhattan_Skyline_a‐ha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Skyline",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_Skyline_Brent_Faiyaz.txt"
+    }
+  ]
+}
